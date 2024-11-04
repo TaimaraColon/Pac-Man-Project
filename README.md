@@ -11,8 +11,8 @@ Don't forget that you must also fill out an evaluation form in Moodle to conside
 
 ## Grading
 
-(802227160) (TAIMARA COLON LOPEZ) (TAIMARA.COLON@UPR.EDU)
-(843211861) (MARIA  DE LOS ANGELES MELENDEZ GOMEZ) (MARIADELOS.MELENDEZ@UPR.EDU)
+(TAIMARA COLON LOPEZ) (TAIMARA.COLON@UPR.EDU)
+(MARIA  DE LOS ANGELES MELENDEZ GOMEZ) (MARIADELOS.MELENDEZ@UPR.EDU)
 
 Any project that doesn't compile will receive a 0.
 
